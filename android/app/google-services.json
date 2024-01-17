@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403775489939",
+    "project_id": "uk-bhulekh-ios",
+    "storage_bucket": "uk-bhulekh-ios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403775489939:android:59ac9f7b34272162100a66",
+        "android_client_info": {
+          "package_name": "com.clovenandworks.bhulekh_uk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9MJ-C8p8FicPhpjvAWBJ-8juhE5kM8YM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
